@@ -1,6 +1,6 @@
 # NLP-project
 
-##Objetivo
+## Objetivo
 
 Los aerolíneas juegan un rol muy importante en los movimientos de viaje y relaciones a nivel global, tanto por motivos laborales o de ocio.
 
@@ -10,7 +10,7 @@ Con el acceso a herramientas e información que poseemos hoy en día, podemos ca
 
 El objetivo es trabajar este conjunto de datos con reseñas en texto de diversos hoteles, junto a una calificación de 1 a 5 (1 siendo muy negativo y 5 siendo muy positivo). A partir de esta clasificación, al obtener una reseña nueva, se puede predecir si ésta es positiva o negativa.
 
-###Contenido del dataset
+### Contenido del dataset
 Columnas
 
 **Airline Name** = Nombre de la Aerolínea
@@ -51,7 +51,7 @@ Columnas
 
 **Recommended** = Recomendado si/no
 
-####Citaciones
+#### Citaciones
 
 Recopilación por Juhi Bhojani y subido en Kaggle y Github
 
