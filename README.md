@@ -1,5 +1,10 @@
 # NLP-project
 
+# Airlnes reviews
+
+<img src="https://github.com/user-attachments/assets/e46a2fe1-0382-484d-a6f3-5e7ec23daf34" alt="Arlines" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/0d6292a6-b664-40f5-9a22-d1d456c5239c" alt="Reviews" width="200" height="200">
+
 ## Objetivo
 
 Los aerolíneas juegan un rol muy importante en los movimientos de viaje y relaciones a nivel global, tanto por motivos laborales o de ocio.
