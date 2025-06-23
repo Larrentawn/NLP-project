@@ -13,7 +13,7 @@ Las reseñas de éstas, se convirtieron en un estándar para orientar a los usua
 
 Con el acceso a herramientas e información que poseemos hoy en día, podemos categorizar miles de reseñas en etiquetas de sentimiento positivo, negativo, o neutral.
 
-El objetivo es trabajar este conjunto de datos con reseñas en texto de diversos hoteles, junto a una calificación de 1 a 5 (1 siendo muy negativo y 5 siendo muy positivo). A partir de esta clasificación, al obtener una reseña nueva, se puede predecir si ésta es positiva o negativa.
+El objetivo es trabajar este conjunto de datos con reseñas en texto de diversas aerolíneas, junto a diversas calificaciones, generales de 1 a 9 (1 siendo muy negativo y 9 siendo muy positivo) y otras mas especificas como Precio-calidad, comodidad de asientos, etc. A partir de esta clasificación, al obtener una reseña nueva, se puede predecir si ésta es positiva o negativa.
 
 ### Contenido del dataset
 Columnas
