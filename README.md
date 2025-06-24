@@ -1,9 +1,9 @@
-# NLP-project
-
 # Airlnes reviews
+### NLP Project
+<img src="https://github.com/user-attachments/assets/e46a2fe1-0382-484d-a6f3-5e7ec23daf34" alt="Arlines" width="200" height="200"></br>
+<img src="https://github.com/user-attachments/assets/d1fd6fac-3c75-44de-b688-9ddf4eec71b6" alt="Reviews" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/1a943c00-f34f-46da-b378-385dd0edef0b" alt="Reviews2" width="180" height="100"></br>
 
-<img src="https://github.com/user-attachments/assets/e46a2fe1-0382-484d-a6f3-5e7ec23daf34" alt="Arlines" width="200" height="200">
-<img src="https://github.com/user-attachments/assets/0d6292a6-b664-40f5-9a22-d1d456c5239c" alt="Reviews" width="200" height="200">
 
 ## Objetivo
 
@@ -15,7 +15,28 @@ Con el acceso a herramientas e información que poseemos hoy en día, podemos ca
 
 El objetivo es trabajar este conjunto de datos con reseñas en texto de diversas aerolíneas, junto a diversas calificaciones, generales de 1 a 9 (1 siendo muy negativo y 9 siendo muy positivo) y otras mas especificas como Precio-calidad, comodidad de asientos, etc. A partir de esta clasificación, al obtener una reseña nueva, se puede predecir si ésta es positiva o negativa.
 
-### Contenido del dataset
+## Índice del proyecto
+1. Presentación
+2. Objetivo
+3. EDA
+4. Análisis de texto y pre-procesamiento:
+   - Longitud y frecuencia de palabras y oraciones
+   - Análisis sintáctico y semántico
+   - PoS Tagging
+   - N-grams
+   - Lemmatización
+   - Codificación a vectores (TF-Idf)
+5. Feature selection y balanceo de clases
+6. Modelos, validación, fine tuning y reports.
+   - Logistic Regression
+   - Random Forest Classifier
+   - XGBoost
+   - DistillBERT
+7. Conclusiones Finales
+
+---
+
+## Contenido del dataset
 Columnas
 
 **Airline Name** = Nombre de la Aerolínea
@@ -56,14 +77,16 @@ Columnas
 
 **Recommended** = Recomendado si/no
 
-#### Citaciones
+---
+
+### Citaciones
 
 Recopilación por Juhi Bhojani y subido en Kaggle y Github
 
-https://www.kaggle.com/datasets/juhibhojani/airline-reviews
+  . https://www.kaggle.com/datasets/juhibhojani/airline-reviews
 
-https://github.com/Juhibhojani/Airline-Reviews-
+  . https://github.com/Juhibhojani/Airline-Reviews-
 
 Las reviews de aerolíneas de este dataset fueron obtenidas por el autor desde:
 
-https://www.airlinequality.com/review-pages/a-z-airline-reviews/
+  . https://www.airlinequality.com/review-pages/a-z-airline-reviews/
