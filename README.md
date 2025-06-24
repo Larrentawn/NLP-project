@@ -37,49 +37,31 @@ El objetivo es trabajar este conjunto de datos con reseñas en texto de diversas
 ---
 
 ## Contenido del dataset
-Columnas
+### Columnas
 
-**Airline Name** = Nombre de la Aerolínea
-
-**Overall Rating** = Calificación total
-
-**Review Title** = Titulo de la reseña
-
-**Review Date** = Fecha de la reseña
-
-**Verified** = Si la reseña está verificada o no
-
-**Review** = Texto de la reseña
-
-**Aircraft** = Tipo de avión
-
-**Type of Traveller** = Tipo de pasajero
-
-**Seat Type** = Tipo de asiento
-
-**Route** = Ruta de viaje
-
-**Date Flown** = Fecha de vuelo
-
-**Seat Comfort** = Calificación de comodidad del asiento
-
-**Cabin Staff Service** = Calificación del staff de cabina
-
-**Food & Beverages** = Calificación de la comida y bebida
-
-**Ground Service** = Calificación del servicio en tierra
-
-**Inflight Entertainment** = Calificación del entretenimiento en el vuelo
-
-**Wifi & Connectivity** = Calificación de WiFi y conectividad
-
-**Value for Money** = Calificación de relación precio/calidad
-
-**Recommended** = Recomendado si/no
+**Airline Name** = Nombre de la Aerolínea </br>
+**Overall Rating** = Calificación total</br>
+**Review Title** = Titulo de la reseña</br>
+**Review Date** = Fecha de la reseña</br>
+**Verified** = Si la reseña está verificada o no</br>
+**Review** = Texto de la reseña</br>
+**Aircraft** = Tipo de avión</br>
+**Type of Traveller** = Tipo de pasajero</br>
+**Seat Type** = Tipo de asiento</br>
+**Route** = Ruta de viaje</br>
+**Date Flown** = Fecha de vuelo</br>
+**Seat Comfort** = Calificación de comodidad del asiento</br>
+**Cabin Staff Service** = Calificación del staff de cabina</br>
+**Food & Beverages** = Calificación de la comida y bebida</br>
+**Ground Service** = Calificación del servicio en tierra</br>
+**Inflight Entertainment** = Calificación del entretenimiento en el vuelo</br>
+**Wifi & Connectivity** = Calificación de WiFi y conectividad</br>
+**Value for Money** = Calificación de relación precio/calidad</br>
+**Recommended** = Recomendado si/no</br>
 
 ---
 
-### Citaciones
+## Citaciones
 
 Recopilación por Juhi Bhojani y subido en Kaggle y Github
 
